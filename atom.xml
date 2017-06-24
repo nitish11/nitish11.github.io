@@ -4,13 +4,13 @@ layout: feed
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-	<title>Hank Quinlan's Blog</title>
+	<title>Nitish Bhardwaj's Blog</title>
 	<link href="http://nitish11.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://nitish11.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://nitish11.github.io/blog</id>
 	<author>
-		<name>Hank Quinlan</name>
+		<name>Nitish Bhardwaj</name>
 		<email>nitish.bhadrwaj11@gmail.com</email>
 	</author>
 
