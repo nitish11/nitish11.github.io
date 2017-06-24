@@ -1,1 +1,33 @@
-theme: jekyll-theme-cayman
+title: Nitish Bhardwaj
+name: Nitish Bhardwaj
+email: nitish.bhardwaj11@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: nitishpietist
+#github_username:  nitish11
+
+# Build settings
+markdown: kramdown
+#theme: minima
+#gems:
+  - jekyll-feed
+
+
+#theme: jekyll-theme-cayman
+#source:      _source
+#destination: _deploy
+
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
