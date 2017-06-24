@@ -11,7 +11,7 @@ layout: feed
 	<id>http://nitish11.github.io/blog</id>
 	<author>
 		<name>Hank Quinlan</name>
-		<email>nitish11hub@gmail.com</email>
+		<email>nitish.bhadrwaj11@gmail.com</email>
 	</author>
 
 	{% for post in site.posts %}
