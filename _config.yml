@@ -1,12 +1,11 @@
-title: Nitish Bhardwaj
-name: Nitish Bhardwaj
-email: nitish.bhardwaj11@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+title: "Nitish Bhardwaj"
+name: "Nitish Bhardwaj"
+email: "nitish.bhardwaj11@gmail.com"
   
-#twitter_username: nitishpietist
-#github_username:  nitish11
+twitter_username: "nitishpietist"
+github_username:  "nitish11"
 
 # Build settings
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+markdown: "kramdown"
+permalink: "/blog/:year/:month/:day/:title"
 
